@@ -1,0 +1,5 @@
+{
+  "PORT": 5000,
+  "dataBaseUrl": "mongodb+srv://root:root@cluster0.ujfe3.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "secretKey": "keysecret"
+}
